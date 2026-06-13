@@ -1,18 +1,23 @@
 **SEJAL DASHORA**
-dashorasejal@gmail.com | +91-7976550511 | Udaipur, Rajasthan, India | [GitHub](https://github.com/) | [LinkedIn](https://linkedin.com/)
+
+Udaipur, Rajasthan, India | dashorasejal@gmail.com | +91-7976550511 | [GitHub](https://github.com/Sejontop) | [LinkedIn](https://linkedin.com/in/sejal-dashora)
 
 ---
 
 ### Education
 **Techno NJR Institute of Technology** — Udaipur
+
 *Bachelor of Technology (B.Tech) in Computer Science & Engineering* | CGPA: 7.88                                   2023 – 2027
 
 ---
 
 ### Technical Skills
-- **Programming Languages:** C, C++, JavaScript, TypeScript, Python | **Frontend:** React.js, Next.js, TailwindCSS, shadcn/ui
+- **Programming Languages:** C, C++, JavaScript, TypeScript, Python
+- **Frontend:** React.js, Next.js, TailwindCSS, shadcn/ui
 - **Backend & Databases:** Node.js, Express.js, Next.js API Routes, Restful APIs, MongoDB, MySQL, PostgreSQL, Prisma ORM, Supabase
-- **DevOps, Cloud & Core:** Docker, CI/CD, GitHub Actions, AWS Fundamentals, Linux, Git, GitHub, VS Code, Postman, DSA, Problem Solving, OOPS, DBMS
+- **DevOps & Cloud:** Docker, CI/CD, GitHub Actions, AWS Fundamentals, Linux
+- **Tools & Platforms** Git, GitHub, VS Code, Postman, Vercel
+- **Core:** DSA, Problem Solving, OOPS, DBMS
 
 ---
 
@@ -33,9 +38,10 @@ dashorasejal@gmail.com | +91-7976550511 | Udaipur, Rajasthan, India | [GitHub](h
 
 ### Certificates & Achievements
 - **RHCSA — Red Hat Certified System Administrator** — Earned RHCSA certification validating core Linux administration and system configuration skills.                                                    *Jan 2026*
-- **Git & GitHub Bootcamp, LetsUpgrade** — Completed hands-on bootcamp covering version control workflows, branching strategies, and collaborative development.                                          *Mar 2025*
 - **GSSoC Open Source Contributor 2026** — Contributed to 2+ open-source projects with merged pull requests as part of GirlScript Summer of Code.                                                          *2026*
+- **Git & GitHub Bootcamp, LetsUpgrade** — Completed hands-on bootcamp covering version control workflows, branching strategies, and collaborative development.                                          *Mar 2025*
 - **Build with India Hackathon** — Team placed in the top 5000 out of 25,000 participants in a national-level hackathon.                                                                                   *Apr 2025*
-- **Venue Coordinator, District 98 TLTP 1.0, Toastmasters International** — Coordinated venue logistics for a district-level leadership training program.                                                  *Jul 2025*
 - **Third Place — Area C4 Evaluation Speech Contest, Toastmasters International** — Secured third place in a competitive public speaking evaluation contest.                                              *Nov 2024 – Oct 2025*
+- **Venue Coordinator, District 98 TLTP 1.0, Toastmasters International** — Coordinated venue logistics for a district-level leadership training program.                                                  *Jul 2025*
+
 
